@@ -1,0 +1,1676 @@
+INFO - 2024-07-18 07:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 07:52:41 --> syntax error, unexpected token ".", expecting ")"
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 07:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 07:52:45 --> syntax error, unexpected token ".", expecting ")"
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 07:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola1
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola2
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola3
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola4
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola5
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola6
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 1
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 2
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 3
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 4
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 5
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 6
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:53:23 --> Modulo en POST desde el for: 7
+INFO - 2024-07-18 07:53:23 --> Hola7
+INFO - 2024-07-18 07:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 07:55:28 --> Array to string conversion
+in APPPATH/Controllers/permisosController.php on line 97.
+ 1 APPPATH/Controllers/permisosController.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Controllers/permisosController.php', 97)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 07:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:55:51 --> Modulos de POST: 2
+INFO - 2024-07-18 07:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 07:57:39 --> Object of class stdClass could not be converted to string
+in APPPATH/Controllers/permisosController.php on line 98.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 07:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:57:57 --> modulos en DB: 2
+INFO - 2024-07-18 07:57:57 --> modulos en DB: 5
+INFO - 2024-07-18 07:57:57 --> modulos en DB: 7
+INFO - 2024-07-18 07:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 2
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 2
+INFO - 2024-07-18 07:59:02 --> modulos en post: 5
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 2
+INFO - 2024-07-18 07:59:02 --> modulos en post: 7
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 2
+INFO - 2024-07-18 07:59:02 --> modulos en post: 1
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 5
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 5
+INFO - 2024-07-18 07:59:02 --> modulos en post: 2
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 5
+INFO - 2024-07-18 07:59:02 --> modulos en post: 7
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 5
+INFO - 2024-07-18 07:59:02 --> modulos en post: 1
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 7
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 7
+INFO - 2024-07-18 07:59:02 --> modulos en post: 2
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 7
+INFO - 2024-07-18 07:59:02 --> modulos en post: 5
+INFO - 2024-07-18 07:59:02 --> modulos en DB: 7
+INFO - 2024-07-18 07:59:02 --> modulos en post: 1
+INFO - 2024-07-18 07:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 07:59:34 --> modulos en post: 5
+INFO - 2024-07-18 07:59:34 --> modulos en post: 7
+INFO - 2024-07-18 07:59:34 --> modulos en post: 1
+INFO - 2024-07-18 07:59:34 --> modulos en post: 2
+INFO - 2024-07-18 07:59:34 --> modulos en post: 7
+INFO - 2024-07-18 07:59:34 --> modulos en post: 1
+INFO - 2024-07-18 07:59:34 --> modulos en post: 2
+INFO - 2024-07-18 07:59:34 --> modulos en post: 5
+INFO - 2024-07-18 07:59:34 --> modulos en post: 1
+CRITICAL - 2024-07-18 08:00:32 --> Unclosed '{' on line 17
+in APPPATH/Controllers/permisosController.php on line 110.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:00:41 --> modulos en post: 5
+INFO - 2024-07-18 08:00:41 --> modulos en post: 2
+INFO - 2024-07-18 08:00:41 --> modulos en post: 2
+INFO - 2024-07-18 08:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 08:07:21 --> Array to string conversion
+in APPPATH/Controllers/permisosController.php on line 107.
+ 1 APPPATH/Controllers/permisosController.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Controllers/permisosController.php', 107)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 08:09:13 --> Array to string conversion
+in APPPATH/Controllers/permisosController.php on line 115.
+ 1 APPPATH/Controllers/permisosController.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Controllers/permisosController.php', 115)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 08:10:39 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH/Controllers/permisosController.php on line 115.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:11:53 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:11:53 --> tipoId: 2
+INFO - 2024-07-18 08:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:13:51 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:13:51 --> tipoId: 2
+DEBUG - 2024-07-18 08:13:51 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2024-07-18 08:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:16:32 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:16:32 --> tipoId: 2
+DEBUG - 2024-07-18 08:16:32 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:16:32 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+INFO - 2024-07-18 08:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:17:55 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:17:55 --> tipoId: 2
+DEBUG - 2024-07-18 08:17:55 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:17:55 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:17:55 --> modulosNoExistentes: Array
+(
+    [3] => 1
+)
+
+INFO - 2024-07-18 08:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:26:40 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:26:40 --> tipoId: 2
+DEBUG - 2024-07-18 08:26:40 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:26:40 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:26:40 --> modulosNoExistentes: Array
+(
+    [3] => 1
+)
+
+CRITICAL - 2024-07-18 08:26:40 --> log_message(): Argument #3 ($context) must be of type array, string given, called in /var/www/html/app/Models/modulosModel.php on line 61
+in SYSTEMPATH/Common.php on line 801.
+ 1 APPPATH/Models/modulosModel.php(61): log_message('info', 'Modulo: 1', 'Usuario: 2')
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:27:51 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:27:51 --> tipoId: 2
+DEBUG - 2024-07-18 08:27:51 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:27:51 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:27:51 --> modulosNoExistentes: Array
+(
+    [3] => 1
+)
+
+INFO - 2024-07-18 08:27:51 --> Modulo: 1
+INFO - 2024-07-18 08:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:28:15 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:28:15 --> tipoId: 2
+DEBUG - 2024-07-18 08:28:15 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:28:15 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:28:15 --> modulosNoExistentes: Array
+(
+    [3] => 1
+)
+
+INFO - 2024-07-18 08:28:15 --> Modulo: 1
+INFO - 2024-07-18 08:28:15 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:29:42 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:29:42 --> tipoId: 2
+DEBUG - 2024-07-18 08:29:42 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:29:42 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:29:42 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:29:42 --> Modulo: 1
+INFO - 2024-07-18 08:29:42 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:29:42 --> Modulo: 6
+INFO - 2024-07-18 08:29:42 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:38:36 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:38:36 --> tipoId: 2
+DEBUG - 2024-07-18 08:38:36 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:38:36 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:38:36 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:38:36 --> Modulo: 1
+INFO - 2024-07-18 08:38:36 --> Tipo de Usuario: 2
+CRITICAL - 2024-07-18 08:38:36 --> Undefined variable $modulo
+in APPPATH/Models/modulosModel.php on line 63.
+ 1 APPPATH/Models/modulosModel.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $modulo', '/var/www/html/app/Models/modulosModel.php', 63)
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:39:23 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:39:23 --> tipoId: 2
+DEBUG - 2024-07-18 08:39:23 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:39:23 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:39:23 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:39:23 --> Modulo: 1
+INFO - 2024-07-18 08:39:23 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:39:23 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:39:23 --> Modulo: 6
+INFO - 2024-07-18 08:39:23 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:39:23 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:42:55 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:42:55 --> tipoId: 2
+DEBUG - 2024-07-18 08:42:55 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:42:55 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:42:55 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:42:55 --> Modulo: 1
+INFO - 2024-07-18 08:42:55 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:42:55 --> Modulo: 1
+INFO - 2024-07-18 08:42:55 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:42:55 --> Modulo: 6
+INFO - 2024-07-18 08:42:55 --> Tipo de Usuario: 2
+INFO - 2024-07-18 08:42:55 --> Modulo: 1
+INFO - 2024-07-18 08:42:55 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:44:37 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:44:37 --> tipoId: 2
+DEBUG - 2024-07-18 08:44:37 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:44:37 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:44:37 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:44:37 --> Modulo: 1
+INFO - 2024-07-18 08:44:37 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:44:37 --> Modulo: 1
+INFO - 2024-07-18 08:44:37 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:51:02 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:51:02 --> tipoId: 2
+DEBUG - 2024-07-18 08:51:02 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:51:02 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:51:02 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:51:02 --> Modulo: [1, 2]
+CRITICAL - 2024-07-18 08:51:02 --> Array to string conversion
+in APPPATH/Models/modulosModel.php on line 71.
+ 1 APPPATH/Models/modulosModel.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Models/modulosModel.php', 71)
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:51:16 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:51:16 --> tipoId: 2
+DEBUG - 2024-07-18 08:51:16 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:51:16 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:51:16 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:51:16 --> Modulo: [1, 2]
+CRITICAL - 2024-07-18 08:51:16 --> Array to string conversion
+in APPPATH/Models/modulosModel.php on line 71.
+ 1 APPPATH/Models/modulosModel.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Models/modulosModel.php', 71)
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 08:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:54:19 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+    [4] => 6
+)
+
+DEBUG - 2024-07-18 08:54:19 --> tipoId: 2
+DEBUG - 2024-07-18 08:54:19 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:54:19 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:54:19 --> modulosNoExistentes: Array
+(
+    [3] => 1
+    [4] => 6
+)
+
+INFO - 2024-07-18 08:54:19 --> Modulo: 1
+INFO - 2024-07-18 08:54:19 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:54:19 --> Modulo: 1
+INFO - 2024-07-18 08:54:19 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 08:57:58 --> moduloIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+    [3] => 1
+)
+
+DEBUG - 2024-07-18 08:57:58 --> tipoId: 2
+DEBUG - 2024-07-18 08:57:58 --> usrExist: Array
+(
+    [0] => stdClass Object
+        (
+            [Id] => 2
+            [NombreItem] => Trabajando
+            [Ruta] => online
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 06:09:09
+            [updated_at] => 2024-07-06 06:09:09
+            [deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [Id] => 5
+            [NombreItem] => Asistencia
+            [Ruta] => asistencia
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-06 07:57:24
+            [updated_at] => 2024-07-06 07:57:24
+            [deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [Id] => 7
+            [NombreItem] => Mensaje
+            [Ruta] => mensaje
+            [TipoUsuario] => [1, 2]
+            [created_at] => 2024-07-07 06:47:56
+            [updated_at] => 2024-07-07 06:47:56
+            [deleted_at] => 
+        )
+
+)
+
+DEBUG - 2024-07-18 08:57:58 --> usrExistIds: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 7
+)
+
+DEBUG - 2024-07-18 08:57:58 --> modulosNoExistentes: Array
+(
+    [3] => 1
+)
+
+INFO - 2024-07-18 08:57:58 --> Modulo: 1
+INFO - 2024-07-18 08:57:58 --> Tipo Usuario: 1
+INFO - 2024-07-18 08:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 08:58:21 --> Modulo: 1
+INFO - 2024-07-18 08:58:21 --> Tipo Usuario: 1
+INFO - 2024-07-18 09:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:04:55 --> Modulo: 1
+INFO - 2024-07-18 09:04:55 --> Tipo Usuario: 1
+INFO - 2024-07-18 09:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:05:34 --> Modulo: 1
+INFO - 2024-07-18 09:05:34 --> Tipo Usuario: 1
+INFO - 2024-07-18 09:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 09:06:15 --> Object of class App\Entities\modulos could not be converted to string
+in APPPATH/Models/modulosModel.php on line 66.
+ 1 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 09:14:27 --> Object of class App\Entities\modulos could not be converted to string
+in APPPATH/Models/modulosModel.php on line 66.
+ 1 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 09:20:23 --> Object of class App\Entities\modulos could not be converted to string
+in APPPATH/Models/modulosModel.php on line 66.
+ 1 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:20:49 --> Modulo: 1
+INFO - 2024-07-18 09:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:21:58 --> Modulo: 1
+INFO - 2024-07-18 09:22:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:22:13 --> Modulo: 1
+INFO - 2024-07-18 09:22:13 --> Modulo: 6
+INFO - 2024-07-18 09:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:23:54 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:23:54 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 09:37:32 --> syntax error, unexpected variable "$tipoUsuarios", expecting ")"
+in APPPATH/Models/modulosModel.php on line 75.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Models/modulosModel.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\modulosModel')
+ 3 APPPATH/Controllers/permisosController.php(39): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\modulosModel')
+ 4 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\permisosController->__construct()
+ 5 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:37:55 --> Tipo de Usuario: 1
+CRITICAL - 2024-07-18 09:37:55 --> Array to string conversion
+in APPPATH/Models/modulosModel.php on line 75.
+ 1 APPPATH/Models/modulosModel.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Models/modulosModel.php', 75)
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:38:38 --> Tipo de Usuario: 1
+CRITICAL - 2024-07-18 09:38:38 --> Array to string conversion
+in APPPATH/Models/modulosModel.php on line 78.
+ 1 APPPATH/Models/modulosModel.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Models/modulosModel.php', 78)
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:40:49 --> Tipo de Usuario: 1
+CRITICAL - 2024-07-18 09:40:49 --> Array to string conversion
+in APPPATH/Models/modulosModel.php on line 82.
+ 1 APPPATH/Models/modulosModel.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Models/modulosModel.php', 82)
+ 2 APPPATH/Controllers/permisosController.php(120): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:41:21 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:41:21 --> Tipo de Usuario2: 1
+INFO - 2024-07-18 09:41:21 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:41:21 --> Tipo de Usuario2: 1
+INFO - 2024-07-18 09:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:43:02 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:43:02 --> Tipo de Usuario2: 1
+INFO - 2024-07-18 09:43:02 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:43:02 --> Tipo de Usuario2: 6
+INFO - 2024-07-18 09:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:44:35 --> Tipo de Usuario: 2
+INFO - 2024-07-18 09:44:35 --> ID modulo: 1
+INFO - 2024-07-18 09:44:35 --> Tipo de Usuario: 2
+INFO - 2024-07-18 09:44:35 --> ID modulo: 6
+INFO - 2024-07-18 09:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:46:37 --> Tipo de Usuario: 2
+INFO - 2024-07-18 09:46:37 --> ID modulo: 1
+INFO - 2024-07-18 09:46:37 --> Tipo de Usuario: 2
+INFO - 2024-07-18 09:46:37 --> ID modulo: 6
+INFO - 2024-07-18 09:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:48:21 --> Tipo de Usuario: 1
+INFO - 2024-07-18 09:48:21 --> ID modulo: 1
+INFO - 2024-07-18 09:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 09:49:24 --> Unmatched '}'
+in APPPATH/Models/modulosModel.php on line 92.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Models/modulosModel.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\modulosModel')
+ 3 APPPATH/Controllers/permisosController.php(39): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\modulosModel')
+ 4 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\permisosController->__construct()
+ 5 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 09:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 09:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 10:03:35 --> Array to string conversion
+in APPPATH/Models/modulosModel.php on line 74.
+ 1 APPPATH/Models/modulosModel.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/var/www/html/app/Models/modulosModel.php', 74)
+ 2 APPPATH/Controllers/permisosController.php(118): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 10:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-18 10:04:13 --> Object of class App\Entities\modulos could not be converted to string
+in APPPATH/Models/modulosModel.php on line 74.
+ 1 APPPATH/Controllers/permisosController.php(118): App\Models\modulosModel->updateTipoUsuario('1', '2')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 10:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:04:35 --> Tipo de Usr en DB: 1
+INFO - 2024-07-18 10:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:06:04 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 10:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 10:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:33:05 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 16:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:33:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:42:11 --> modulosParaEliminar: Array
+(
+    [0] => 1
+    [2] => 4
+)
+
+INFO - 2024-07-18 16:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:44:13 --> modulosParaEliminar: Array
+(
+    [0] => 1
+    [2] => 4
+)
+
+CRITICAL - 2024-07-18 16:44:13 --> Call to undefined method App\Models\modulosModel::removeTipoUsuario
+in SYSTEMPATH/Model.php on line 842.
+ 1 APPPATH/Controllers/permisosController.php(128): CodeIgniter\Model->__call('removeTipoUsuario', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-18 16:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:45:22 --> modulosParaEliminar: Array
+(
+    [0] => 1
+    [2] => 4
+)
+
+INFO - 2024-07-18 16:45:22 --> Tipo de Usr en DB: [1, 2]
+INFO - 2024-07-18 16:45:22 --> Tipo de Usr en DB: [1, 2]
+INFO - 2024-07-18 16:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:46:57 --> modulosParaEliminar: Array
+(
+    [0] => 1
+    [2] => 4
+)
+
+INFO - 2024-07-18 16:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:48:10 --> modulosParaEliminar: Array
+(
+)
+
+INFO - 2024-07-18 16:48:10 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 16:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:48:27 --> modulosParaEliminar: Array
+(
+    [0] => 1
+)
+
+INFO - 2024-07-18 16:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:55:08 --> modulosParaEliminar: Array
+(
+)
+
+INFO - 2024-07-18 16:55:08 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 16:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:55:18 --> modulosParaEliminar: Array
+(
+    [0] => 1
+)
+
+INFO - 2024-07-18 16:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 16:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:58:22 --> modulosParaEliminar: Array
+(
+)
+
+INFO - 2024-07-18 16:58:22 --> fecha: 2024-07-18 16:58:22
+INFO - 2024-07-18 16:58:22 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 16:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 16:59:18 --> modulosParaEliminar: Array
+(
+    [0] => 1
+)
+
+INFO - 2024-07-18 16:59:18 --> fecha: 2024-07-18 16:59:18
+INFO - 2024-07-18 17:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 17:01:29 --> modulosParaEliminar: Array
+(
+)
+
+INFO - 2024-07-18 17:01:29 --> fecha: 2024-07-18 17:01:29
+INFO - 2024-07-18 17:01:29 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 17:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 17:01:41 --> modulosParaEliminar: Array
+(
+    [0] => 1
+)
+
+INFO - 2024-07-18 17:01:41 --> fecha: 2024-07-18 17:01:41
+INFO - 2024-07-18 17:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 17:02:59 --> modulosParaEliminar: Array
+(
+)
+
+INFO - 2024-07-18 17:02:59 --> fecha: 2024-07-18 17:02:59
+INFO - 2024-07-18 17:02:59 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 17:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 17:03:46 --> modulosParaEliminar: Array
+(
+    [0] => 1
+)
+
+INFO - 2024-07-18 17:03:46 --> fecha: 2024-07-18 17:03:46
+INFO - 2024-07-18 17:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 17:08:51 --> modulosParaEliminar: Array
+(
+)
+
+INFO - 2024-07-18 17:08:51 --> fecha: 2024-07-18 17:08:51
+INFO - 2024-07-18 17:08:51 --> Tipo de Usr en DB: [1]
+INFO - 2024-07-18 17:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 17:10:28 --> modulosParaEliminar: Array
+(
+    [0] => 1
+)
+
+INFO - 2024-07-18 17:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-18 17:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

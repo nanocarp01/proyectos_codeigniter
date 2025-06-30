@@ -1,0 +1,886 @@
+INFO - 2024-07-17 07:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 07:52:56 --> Attempt to read property "NombreItem" on array
+in APPPATH/Controllers/permisosController.php on line 96.
+ 1 APPPATH/Controllers/permisosController.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "NombreItem" on array', '/var/www/html/app/Controllers/permisosController.php', 96)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 07:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 07:53:24 --> Undefined array key "NombreItem"
+in APPPATH/Controllers/permisosController.php on line 96.
+ 1 APPPATH/Controllers/permisosController.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "NombreItem"', '/var/www/html/app/Controllers/permisosController.php', 96)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 07:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 07:56:55 --> Unclosed '{' on line 89
+in APPPATH/Controllers/permisosController.php on line 100.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 07:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 07:57:09 --> Attempt to read property "NombreItem" on array
+in APPPATH/Controllers/permisosController.php on line 96.
+ 1 APPPATH/Controllers/permisosController.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "NombreItem" on array', '/var/www/html/app/Controllers/permisosController.php', 96)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 07:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 07:58:33 --> Unclosed '{' on line 17
+in APPPATH/Controllers/permisosController.php on line 104.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 07:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 07:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:08:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 08:08:57 --> Undefined property: stdClass::$ID
+in APPPATH/Controllers/permisosController.php on line 100.
+ 1 APPPATH/Controllers/permisosController.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$ID', '/var/www/html/app/Controllers/permisosController.php', 100)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 1
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 2
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 3
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 4
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 5
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 6
+INFO - 2024-07-17 08:10:49 --> Sí está, ID: 7
+INFO - 2024-07-17 08:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 1
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 2
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 3
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 4
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 5
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 6
+INFO - 2024-07-17 08:15:06 --> Sí está, ID: 7
+INFO - 2024-07-17 08:15:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 1
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 2
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 3
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 4
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 5
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 6
+INFO - 2024-07-17 08:15:29 --> Sí está, ID: 7
+INFO - 2024-07-17 08:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:20:39 --> No está, ID: 1
+INFO - 2024-07-17 08:20:39 --> No está, ID: 2
+INFO - 2024-07-17 08:20:39 --> No está, ID: 3
+INFO - 2024-07-17 08:20:39 --> No está, ID: 4
+INFO - 2024-07-17 08:20:39 --> No está, ID: 5
+INFO - 2024-07-17 08:20:39 --> No está, ID: 6
+INFO - 2024-07-17 08:20:39 --> No está, ID: 7
+INFO - 2024-07-17 08:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 1
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 2
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 3
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 4
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 5
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 6
+INFO - 2024-07-17 08:21:42 --> Sí está, ID: 7
+INFO - 2024-07-17 08:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 1
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 2
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 3
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 4
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 5
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 6
+INFO - 2024-07-17 08:21:49 --> Sí está, ID: 7
+INFO - 2024-07-17 08:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 1
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 2
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 3
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 4
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 5
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 6
+INFO - 2024-07-17 08:22:23 --> Sí está, ID: 7
+INFO - 2024-07-17 08:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 1
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 2
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 3
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 4
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 5
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 6
+INFO - 2024-07-17 08:22:54 --> Sí está, ID: 7
+INFO - 2024-07-17 08:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 08:25:20 --> Unclosed '{' on line 89
+in APPPATH/Controllers/permisosController.php on line 105.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:25:31 --> Está, ID: 1
+INFO - 2024-07-17 08:25:31 --> Está, ID: 2
+INFO - 2024-07-17 08:25:31 --> Está, ID: 3
+INFO - 2024-07-17 08:25:31 --> Está, ID: 4
+INFO - 2024-07-17 08:25:31 --> Está, ID: 5
+INFO - 2024-07-17 08:25:31 --> Está, ID: 6
+INFO - 2024-07-17 08:25:31 --> Está, ID: 7
+INFO - 2024-07-17 08:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:29:55 --> No está, ID: 1
+INFO - 2024-07-17 08:29:55 --> Está, ID: 2
+INFO - 2024-07-17 08:29:55 --> Está, ID: 3
+INFO - 2024-07-17 08:29:55 --> Está, ID: 4
+INFO - 2024-07-17 08:29:55 --> Está, ID: 5
+INFO - 2024-07-17 08:29:55 --> Está, ID: 6
+INFO - 2024-07-17 08:29:55 --> Está, ID: 7
+INFO - 2024-07-17 08:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 08:34:12 --> in_array(): Argument #2 ($haystack) must be of type array, string given
+in APPPATH/Controllers/permisosController.php on line 98.
+ 1 APPPATH/Controllers/permisosController.php(98): in_array([...], '1')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:37:03 --> No está, ID: 1
+INFO - 2024-07-17 08:37:03 --> Está, ID: 2
+INFO - 2024-07-17 08:37:03 --> Está, ID: 3
+INFO - 2024-07-17 08:37:03 --> Está, ID: 4
+INFO - 2024-07-17 08:37:03 --> Está, ID: 5
+INFO - 2024-07-17 08:37:03 --> Está, ID: 6
+INFO - 2024-07-17 08:37:03 --> Está, ID: 7
+INFO - 2024-07-17 08:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:38:03 --> Está, ID: 2
+INFO - 2024-07-17 08:38:03 --> Está, ID: 5
+INFO - 2024-07-17 08:38:03 --> Está, ID: 7
+INFO - 2024-07-17 08:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:38:19 --> Está, ID: 2
+INFO - 2024-07-17 08:38:19 --> Está, ID: 5
+INFO - 2024-07-17 08:38:19 --> Está, ID: 7
+INFO - 2024-07-17 08:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:39:27 --> Está, ID: 2
+INFO - 2024-07-17 08:39:27 --> Está, ID: 5
+INFO - 2024-07-17 08:39:27 --> Está, ID: 7
+CRITICAL - 2024-07-17 08:46:52 --> Unclosed '{' on line 17
+in APPPATH/Controllers/permisosController.php on line 110.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-17 08:47:06 --> Unclosed '{' on line 17
+in APPPATH/Controllers/permisosController.php on line 110.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:47:30 --> Está: 2
+INFO - 2024-07-17 08:47:30 --> Está: 5
+INFO - 2024-07-17 08:47:30 --> Está: 7
+CRITICAL - 2024-07-17 08:48:10 --> Unclosed '{' on line 89
+in APPPATH/Controllers/permisosController.php on line 111.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:48:21 --> Está: 2
+INFO - 2024-07-17 08:48:21 --> No está: 5
+INFO - 2024-07-17 08:48:21 --> No está: 7
+INFO - 2024-07-17 08:48:21 --> No está: 1
+INFO - 2024-07-17 08:48:21 --> No está: 2
+INFO - 2024-07-17 08:48:21 --> Está: 5
+INFO - 2024-07-17 08:48:21 --> No está: 7
+INFO - 2024-07-17 08:48:21 --> No está: 1
+INFO - 2024-07-17 08:48:21 --> No está: 2
+INFO - 2024-07-17 08:48:21 --> No está: 5
+INFO - 2024-07-17 08:48:21 --> Está: 7
+INFO - 2024-07-17 08:48:21 --> No está: 1
+INFO - 2024-07-17 08:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:48:56 --> Está: 1
+INFO - 2024-07-17 08:48:56 --> No está: 2
+INFO - 2024-07-17 08:48:56 --> No está: 3
+INFO - 2024-07-17 08:48:56 --> No está: 4
+INFO - 2024-07-17 08:48:56 --> No está: 5
+INFO - 2024-07-17 08:48:56 --> No está: 6
+INFO - 2024-07-17 08:48:56 --> No está: 7
+INFO - 2024-07-17 08:48:56 --> No está: 1
+INFO - 2024-07-17 08:48:56 --> Está: 2
+INFO - 2024-07-17 08:48:56 --> No está: 3
+INFO - 2024-07-17 08:48:56 --> No está: 4
+INFO - 2024-07-17 08:48:56 --> No está: 5
+INFO - 2024-07-17 08:48:56 --> No está: 6
+INFO - 2024-07-17 08:48:56 --> No está: 7
+INFO - 2024-07-17 08:48:56 --> No está: 1
+INFO - 2024-07-17 08:48:56 --> No está: 2
+INFO - 2024-07-17 08:48:56 --> Está: 3
+INFO - 2024-07-17 08:48:56 --> No está: 4
+INFO - 2024-07-17 08:48:56 --> No está: 5
+INFO - 2024-07-17 08:48:56 --> No está: 6
+INFO - 2024-07-17 08:48:56 --> No está: 7
+INFO - 2024-07-17 08:48:56 --> No está: 1
+INFO - 2024-07-17 08:48:56 --> No está: 2
+INFO - 2024-07-17 08:48:56 --> No está: 3
+INFO - 2024-07-17 08:48:56 --> Está: 4
+INFO - 2024-07-17 08:48:56 --> No está: 5
+INFO - 2024-07-17 08:48:56 --> No está: 6
+INFO - 2024-07-17 08:48:56 --> No está: 7
+INFO - 2024-07-17 08:48:56 --> No está: 1
+INFO - 2024-07-17 08:48:56 --> No está: 2
+INFO - 2024-07-17 08:48:56 --> No está: 3
+INFO - 2024-07-17 08:48:56 --> No está: 4
+INFO - 2024-07-17 08:48:56 --> Está: 5
+INFO - 2024-07-17 08:48:56 --> No está: 6
+INFO - 2024-07-17 08:48:56 --> No está: 7
+INFO - 2024-07-17 08:48:56 --> No está: 1
+INFO - 2024-07-17 08:48:56 --> No está: 2
+INFO - 2024-07-17 08:48:56 --> No está: 3
+INFO - 2024-07-17 08:48:56 --> No está: 4
+INFO - 2024-07-17 08:48:56 --> No está: 5
+INFO - 2024-07-17 08:48:56 --> Está: 6
+INFO - 2024-07-17 08:48:56 --> No está: 7
+INFO - 2024-07-17 08:48:56 --> No está: 1
+INFO - 2024-07-17 08:48:56 --> No está: 2
+INFO - 2024-07-17 08:48:56 --> No está: 3
+INFO - 2024-07-17 08:48:56 --> No está: 4
+INFO - 2024-07-17 08:48:56 --> No está: 5
+INFO - 2024-07-17 08:48:56 --> No está: 6
+INFO - 2024-07-17 08:48:56 --> Está: 7
+INFO - 2024-07-17 08:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 08:50:04 --> in_array(): Argument #2 ($haystack) must be of type array, string given
+in APPPATH/Controllers/permisosController.php on line 99.
+ 1 APPPATH/Controllers/permisosController.php(99): in_array('1', '1')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 08:50:19 --> in_array(): Argument #2 ($haystack) must be of type array, string given
+in APPPATH/Controllers/permisosController.php on line 99.
+ 1 APPPATH/Controllers/permisosController.php(99): in_array('1', '1')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-17 08:52:23 --> Unclosed '{' on line 17
+in APPPATH/Controllers/permisosController.php on line 107.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 08:53:05 --> in_array(): Argument #2 ($haystack) must be of type array, string given
+in APPPATH/Controllers/permisosController.php on line 99.
+ 1 APPPATH/Controllers/permisosController.php(99): in_array('1', '1')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 1
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 2
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 3
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 4
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 5
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 6
+INFO - 2024-07-17 08:54:45 --> Modulo en DB: 7
+INFO - 2024-07-17 08:54:45 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 1
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 2
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 3
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 4
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 5
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 6
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en DB: 7
+INFO - 2024-07-17 08:57:11 --> Modulo en POST: 7
+CRITICAL - 2024-07-17 08:58:32 --> syntax error, unexpected string content "in"
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 08:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 1
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 2
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 3
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 4
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 5
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 6
+INFO - 2024-07-17 08:58:44 --> Modulo en DB: 7
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 1
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 2
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 3
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 4
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 5
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 6
+INFO - 2024-07-17 08:58:44 --> Modulo en POST: 7
+INFO - 2024-07-17 08:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:58:57 --> Modulo en DB: 2
+INFO - 2024-07-17 08:58:57 --> Modulo en DB: 5
+INFO - 2024-07-17 08:58:57 --> Modulo en DB: 7
+INFO - 2024-07-17 08:58:57 --> Modulo en POST: 2
+INFO - 2024-07-17 08:58:57 --> Modulo en POST: 5
+INFO - 2024-07-17 08:58:57 --> Modulo en POST: 7
+INFO - 2024-07-17 08:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 08:59:10 --> Modulo en DB: 2
+INFO - 2024-07-17 08:59:10 --> Modulo en DB: 5
+INFO - 2024-07-17 08:59:10 --> Modulo en DB: 7
+INFO - 2024-07-17 08:59:10 --> Modulo en POST: 2
+INFO - 2024-07-17 08:59:10 --> Modulo en POST: 5
+INFO - 2024-07-17 08:59:10 --> Modulo en POST: 7
+INFO - 2024-07-17 08:59:10 --> Modulo en POST: 1
+INFO - 2024-07-17 09:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:01:23 --> Modulo en DB: 2
+INFO - 2024-07-17 09:01:23 --> Modulo en DB: 5
+INFO - 2024-07-17 09:01:23 --> Modulo en DB: 7
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 2
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 5
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 7
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 1
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 2
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 5
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 7
+INFO - 2024-07-17 09:01:23 --> Modulo en POST: 1
+INFO - 2024-07-17 09:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:02:05 --> Modulo en DB desde el foreach: 2
+INFO - 2024-07-17 09:02:05 --> Modulo en DB desde el foreach: 5
+INFO - 2024-07-17 09:02:05 --> Modulo en DB desde el foreach: 7
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el foreach: 2
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el foreach: 5
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el foreach: 7
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el foreach: 1
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:02:05 --> Modulo en POST desde el for: 1
+CRITICAL - 2024-07-17 09:04:56 --> syntax error, unexpected token ")", expecting ";"
+in APPPATH/Controllers/permisosController.php on line 108.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-17 09:05:20 --> syntax error, unexpected token ")", expecting ";"
+in APPPATH/Controllers/permisosController.php on line 108.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el foreach: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el foreach: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el foreach: 7
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el foreach: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el foreach: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el foreach: 7
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el foreach: 1
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:05:43 --> Modulo en POST desde el for: 1
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:05:43 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:06:11 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:06:11 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:06:11 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:06:11 --> Modulo en POST desde el for: 1
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:06:11 --> Modulo en DB desde el for: 7
+CRITICAL - 2024-07-17 09:07:25 --> Unclosed '{' on line 17
+in APPPATH/Controllers/permisosController.php on line 111.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:07:39 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:07:39 --> Está: 2
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:07:39 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:07:39 --> Está: 5
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:07:39 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:07:39 --> Está: 7
+INFO - 2024-07-17 09:07:39 --> Modulo en POST desde el for: 1
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:07:39 --> Modulo en DB desde el for: 7
+CRITICAL - 2024-07-17 09:08:07 --> Unclosed '{' on line 105
+in APPPATH/Controllers/permisosController.php on line 107.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:08:18 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:08:18 --> Está: 2
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:08:18 --> No está: 2
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:08:18 --> No está: 2
+INFO - 2024-07-17 09:08:18 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:08:18 --> No está: 5
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:08:18 --> Está: 5
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:08:18 --> No está: 5
+INFO - 2024-07-17 09:08:18 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:08:18 --> No está: 7
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:08:18 --> No está: 7
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:08:18 --> Está: 7
+INFO - 2024-07-17 09:08:18 --> Modulo en POST desde el for: 1
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 2
+INFO - 2024-07-17 09:08:18 --> No está: 1
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 5
+INFO - 2024-07-17 09:08:18 --> No está: 1
+INFO - 2024-07-17 09:08:18 --> Modulo en DB desde el for: 7
+INFO - 2024-07-17 09:08:18 --> No está: 1
+INFO - 2024-07-17 09:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:09:05 --> Está: 2
+INFO - 2024-07-17 09:09:05 --> No está: 2
+INFO - 2024-07-17 09:09:05 --> No está: 2
+INFO - 2024-07-17 09:09:05 --> No está: 5
+INFO - 2024-07-17 09:09:05 --> Está: 5
+INFO - 2024-07-17 09:09:05 --> No está: 5
+INFO - 2024-07-17 09:09:05 --> No está: 7
+INFO - 2024-07-17 09:09:05 --> No está: 7
+INFO - 2024-07-17 09:09:05 --> Está: 7
+INFO - 2024-07-17 09:09:05 --> No está: 1
+INFO - 2024-07-17 09:09:05 --> No está: 1
+INFO - 2024-07-17 09:09:05 --> No está: 1
+INFO - 2024-07-17 09:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:11:00 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:11:39 --> in_array(): Argument #2 ($haystack) must be of type array, string given
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 APPPATH/Controllers/permisosController.php(102): in_array(Object(stdClass), '2')
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-17 09:12:16 --> Unclosed '{' on line 89
+in APPPATH/Controllers/permisosController.php on line 110.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:12:23 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:12:52 --> Object of class stdClass could not be converted to string
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:13:09 --> Object of class stdClass could not be converted to string
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:13:18 --> Object of class stdClass could not be converted to string
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 09:18:53 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/permisosController.php on line 101.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\permisosController->updatePermisos()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\permisosController))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 7
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 5
+INFO - 2024-07-17 09:28:43 --> Modulo en POST desde el for: 7
+CRITICAL - 2024-07-17 09:29:10 --> Unclosed '{' on line 89
+in APPPATH/Controllers/permisosController.php on line 108.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-17 09:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 09:29:20 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:29:20 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:29:20 --> Modulo en POST desde el for: 2
+INFO - 2024-07-17 09:29:20 --> Modulo en POST desde el for: 2
+CRITICAL - 2024-07-17 09:31:31 --> syntax error, unexpected token ".", expecting ")"
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-17 09:31:40 --> syntax error, unexpected token ".", expecting ")"
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-17 09:32:28 --> syntax error, unexpected token ".", expecting ")"
+in APPPATH/Controllers/permisosController.php on line 102.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/app/Controllers/permisosController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\permisosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\permisosController')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\permisosController', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

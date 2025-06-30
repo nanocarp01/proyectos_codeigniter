@@ -1,0 +1,173 @@
+INFO - 2024-06-28 16:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 16:33:59 --> Undefined variable $foto
+in APPPATH/Controllers/userController.php on line 133.
+ 1 APPPATH/Controllers/userController.php(133): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 16:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 16:34:11 --> Undefined variable $foto
+in APPPATH/Controllers/userController.php on line 133.
+ 1 APPPATH/Controllers/userController.php(133): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 16:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 16:49:22 --> Undefined array key "nombre"
+in APPPATH/Models/userModel.php on line 42.
+ 1 APPPATH/Models/userModel.php(42): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/userController.php(132): App\Models\userModel->NewUser()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 16:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 16:49:43 --> Attempt to read property "nombre" on array
+in APPPATH/Models/userModel.php on line 42.
+ 1 APPPATH/Models/userModel.php(42): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/userController.php(132): App\Models\userModel->NewUser()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 16:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 16:51:48 --> Undefined constant "App\Models\i"
+in APPPATH/Models/userModel.php on line 49.
+ 1 APPPATH/Controllers/userController.php(132): App\Models\userModel->NewUser()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 16:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 16:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 16:54:16 --> Undefined array key "nombre"
+in APPPATH/Models/userModel.php on line 42.
+ 1 APPPATH/Models/userModel.php(42): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/userController.php(132): App\Models\userModel->NewUser()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 16:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-28 17:01:38 --> mysqli_sql_exception: Unknown column 'FechaNacimineto' in 'field list' in /var/www/html/gestorRRHH2/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/html/gestorRRHH2/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/html/gestorRRHH2/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/gestorRRHH2/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/gestorRRHH2/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/gestorRRHH2/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/gestorRRHH2/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/html/gestorRRHH2/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/html/gestorRRHH2/app/Models/userModel.php(63): CodeIgniter\Model->insert()
+#8 /var/www/html/gestorRRHH2/app/Controllers/userController.php(132): App\Models\userModel->NewUser()
+#9 /var/www/html/gestorRRHH2/system/CodeIgniter.php(934): App\Controllers\userController->newUser()
+#10 /var/www/html/gestorRRHH2/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/html/gestorRRHH2/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/html/gestorRRHH2/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-06-28 17:01:38 --> Unknown column 'FechaNacimineto' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 295.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(295): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 7 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 8 APPPATH/Models/userModel.php(63): CodeIgniter\Model->insert()
+ 9 APPPATH/Controllers/userController.php(132): App\Models\userModel->NewUser()
+10 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+11 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 17:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-28 17:02:21 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`gestionRRHH`.`Usuarios`, CONSTRAINT `Usuarios_TipoUsuario_foreign` FOREIGN KEY (`TipoUsuario`) REFERENCES `TiposUsuarios` (`Id`) ON DELETE CASCADE ON UPDATE CASCADE) in /var/www/html/gestorRRHH2/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/html/gestorRRHH2/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/html/gestorRRHH2/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/gestorRRHH2/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/gestorRRHH2/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/gestorRRHH2/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/gestorRRHH2/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/html/gestorRRHH2/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/html/gestorRRHH2/app/Models/userModel.php(63): CodeIgniter\Model->insert()
+#8 /var/www/html/gestorRRHH2/app/Controllers/userController.php(132): App\Models\userModel->NewUser()
+#9 /var/www/html/gestorRRHH2/system/CodeIgniter.php(934): App\Controllers\userController->newUser()
+#10 /var/www/html/gestorRRHH2/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/html/gestorRRHH2/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/html/gestorRRHH2/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-06-28 17:02:21 --> Cannot add or update a child row: a foreign key constraint fails (`gestionRRHH`.`Usuarios`, CONSTRAINT `Usuarios_TipoUsuario_foreign` FOREIGN KEY (`TipoUsuario`) REFERENCES `TiposUsuarios` (`Id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 295.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(295): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 7 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 8 APPPATH/Models/userModel.php(63): CodeIgniter\Model->insert()
+ 9 APPPATH/Controllers/userController.php(132): App\Models\userModel->NewUser()
+10 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+11 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 17:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 17:13:49 --> Undefined variable $data
+in APPPATH/Models/userHorariosModel.php on line 15.
+ 1 APPPATH/Models/userHorariosModel.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/userController.php(136): App\Models\userHorariosModel->newUserHorarios()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 17:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-28 17:14:45 --> Undefined variable $apellido
+in APPPATH/Models/userHorariosModel.php on line 23.
+ 1 APPPATH/Models/userHorariosModel.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/userController.php(136): App\Models\userHorariosModel->newUserHorarios()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\userController->newUser()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-28 17:15:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-28 17:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
